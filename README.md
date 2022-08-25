@@ -2,7 +2,7 @@
 
 ## Project Aim
 
-Create a web app that:
+**Create a web app that:**
 
 -   Import prospect (job posting) from LinkedIn search so that user can get access to varieties of job opportunities.
 -   Select existing list or create new list so that user can segment opportunities by various categories.
