@@ -105,8 +105,6 @@ export async function getServerSideProps() {
     .catch((err) => { throw err })
 
   return {
-    props: {
-      data
-    }
+    props: { data }
   }
 }
